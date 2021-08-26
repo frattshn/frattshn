@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Memduh Fırat</h1>
+<h2 align="center">Hi 👋, I'm Memduh Fırat</h2>
 <h3 align="center">A Software Engineering Student from Turkey</h3>
 
 - 🌱 I’m currently learning **Java, Flutter**
