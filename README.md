@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Memduh Fırat</h2>
 <h3 align="center">A Software Engineering Student from Turkey</h3>
 
-- 🌱 I’m currently learning **Java, Flutter**
+- 🌱 I’m currently learning **Java, Django**
 
 - 📫 How to reach me **sahinmfirat@gmail.com**
 
