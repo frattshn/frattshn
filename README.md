@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineering Student from Turkey</h3>
 
 - I’m currently learning **Java and Spring Framework**
-- 
+
 - How to reach me **sahinmfirat@gmail.com**
 
 - Interested in backend technologies.
